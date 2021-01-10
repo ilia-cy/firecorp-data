@@ -1,2 +1,2 @@
 Something
-password: ************
+freenode.sasl_password = "************"
